@@ -13,3 +13,5 @@
 2. cd client
 3. npm i
 4. yog2 release --dest output debug --watch
+
+我们在浏览器中输入http://127.0.0.1:8085/test，进入到我们demo中的基本用例
