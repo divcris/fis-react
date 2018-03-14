@@ -1,0 +1,23 @@
+{
+    "globalDependencies": {
+      "axios": "registry:dt/axios#0.9.1+20160629101425",
+      "classnames": "registry:dt/classnames#0.0.0+20160316155526",
+      "express": "registry:dt/express#4.0.0+20160708185218",
+      "history": "registry:dt/history#1.8.0+20160316155526",
+      "lodash": "registry:dt/lodash#4.14.0+20160830145422",
+      "node": "registry:dt/node#6.0.0+20160909153538",
+      "object-assign": "registry:dt/object-assign#4.0.1+20160819193737",
+      "react": "registry:dt/react#0.14.0+20160829191040",
+      "react-addons-update": "registry:dt/react-addons-update#0.14.0+20160316155526",
+      "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+      "react-redux": "registry:dt/react-redux#4.4.0+20160908183346",
+      "react-router": "registry:dt/react-router#2.0.0+20160828232736",
+      "react-router-redux": "registry:dt/react-router-redux#4.0.0+20160724070902",
+      "react-slick": "registry:dt/react-slick#0.0.0+20160203090504",
+      "redux": "registry:dt/redux#3.5.2+20160703092728",
+      "redux-actions": "registry:dt/redux-actions#0.8.0+20160521154116",
+      "redux-logger": "registry:dt/redux-logger#2.6.0+20160619033847",
+      "redux-promise": "registry:dt/redux-promise#0.5.3+20160914125120",
+      "redux-thunk": "registry:dt/redux-thunk#2.1.0+20160703120921"
+    }
+  }

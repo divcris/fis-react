@@ -1,0 +1,121 @@
+{
+    "res": {
+        "app:page/index.tpl": {
+            "uri": "app/page/index.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/app/page/index.tpl"
+        },
+        "app:page/layout.tpl": {
+            "uri": "app/page/layout.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/app/page/layout.tpl"
+        },
+        "app:page/test.tpl": {
+            "uri": "app/page/test.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/app/page/test.tpl"
+        },
+        "app:static/js/bigpipe.js": {
+            "uri": "/static/app/static/js/bigpipe_e458691.js",
+            "type": "js",
+            "subpath": "/static/app/static/js/bigpipe_e458691.js"
+        },
+        "app:static/js/index.js": {
+            "uri": "/static/app/static/js/index_d41d8cd.js",
+            "type": "js",
+            "subpath": "/static/app/static/js/index_d41d8cd.js"
+        },
+        "app:static/js/lazyload.js": {
+            "uri": "/static/app/static/js/lazyload_80d4f78.js",
+            "type": "js",
+            "subpath": "/static/app/static/js/lazyload_80d4f78.js"
+        },
+        "app:static/js/mod.js": {
+            "uri": "/static/app/static/js/mod_75d1f98.js",
+            "type": "js",
+            "subpath": "/static/app/static/js/mod_75d1f98.js"
+        },
+        "app:static/js/page.js": {
+            "uri": "/static/app/static/js/page_d27dd51.js",
+            "type": "js",
+            "deps": [
+                "app:static/js/bigpipe.js"
+            ],
+            "subpath": "/static/app/static/js/page_d27dd51.js"
+        },
+        "app:widget/message/message.tpl": {
+            "uri": "app/widget/message/message.tpl",
+            "type": "tpl",
+            "subpath": "/views/app/widget/message/message.tpl"
+        },
+        "app:widget/test/test.tpl": {
+            "uri": "app/widget/test/test.tpl",
+            "type": "tpl",
+            "subpath": "/views/app/widget/test/test.tpl"
+        },
+        "app:debug/app/app/action/book.js": {
+            "uri": "/static/app/debug/app/app/action/book.js",
+            "type": "js",
+            "subpath": "/static/app/debug/app/app/action/book.js"
+        },
+        "app:debug/app/app/action/index.js": {
+            "uri": "/static/app/debug/app/app/action/index.js",
+            "type": "js",
+            "deps": [
+                "app:debug/app/app/model/index.js",
+                "app:debug/app/app/lib/util.js"
+            ],
+            "subpath": "/static/app/debug/app/app/action/index.js"
+        },
+        "app:debug/app/app/lib/util.js": {
+            "uri": "/static/app/debug/app/app/lib/util.js",
+            "type": "js",
+            "subpath": "/static/app/debug/app/app/lib/util.js"
+        },
+        "app:debug/app/app/model/index.js": {
+            "uri": "/static/app/debug/app/app/model/index.js",
+            "type": "js",
+            "subpath": "/static/app/debug/app/app/model/index.js"
+        },
+        "app:debug/app/app/router.js": {
+            "uri": "/static/app/debug/app/app/router.js",
+            "type": "js",
+            "subpath": "/static/app/debug/app/app/router.js"
+        },
+        "app:debug/static/app/static/js/bigpipe_e458691.js": {
+            "uri": "/static/app/debug/static/app/static/js/bigpipe_e458691.js",
+            "type": "js",
+            "subpath": "/static/app/debug/static/app/static/js/bigpipe_e458691.js"
+        },
+        "app:debug/static/app/static/js/index_d41d8cd.js": {
+            "uri": "/static/app/debug/static/app/static/js/index_d41d8cd.js",
+            "type": "js",
+            "subpath": "/static/app/debug/static/app/static/js/index_d41d8cd.js"
+        },
+        "app:debug/static/app/static/js/lazyload_80d4f78.js": {
+            "uri": "/static/app/debug/static/app/static/js/lazyload_80d4f78.js",
+            "type": "js",
+            "subpath": "/static/app/debug/static/app/static/js/lazyload_80d4f78.js"
+        },
+        "app:debug/static/app/static/js/mod_75d1f98.js": {
+            "uri": "/static/app/debug/static/app/static/js/mod_75d1f98.js",
+            "type": "js",
+            "subpath": "/static/app/debug/static/app/static/js/mod_75d1f98.js"
+        },
+        "app:debug/static/app/static/js/page_d27dd51.js": {
+            "uri": "/static/app/debug/static/app/static/js/page_d27dd51.js",
+            "type": "js",
+            "subpath": "/static/app/debug/static/app/static/js/page_d27dd51.js"
+        }
+    },
+    "pkg": {}
+}
