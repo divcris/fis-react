@@ -11,5 +11,5 @@
 进入app项目
 1. npm i
 2. cd client
-3.npm i
+3. npm i
 4. yog2 release --dest output debug --watch
